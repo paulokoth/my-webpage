@@ -5,4 +5,19 @@ h1{
 
 body{
   text-align: justify;
+  font-style:normal;
+  font-weight: normal;
+  font-family: "calibri";
+  line-height: 21px;
+}
+
+}
+#banner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 200px;
+  z-index: -1;
 }
